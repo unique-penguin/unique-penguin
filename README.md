@@ -9,11 +9,15 @@ Simple HTML is good enought for most cases, fix your `.gov` sites.
 - C++
 - Java (I don't like this one as much, but still fun)
 
-### DataBases
+### Databases
 - MongoDB (My favourite & Mastered)
 - MariaDB
 
 ### Frameworks 
+
+### Others
+- Docker
+- 
 - Frame... work?
 
 
