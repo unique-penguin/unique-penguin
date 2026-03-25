@@ -1,6 +1,7 @@
-# Welcome to my profile
-Simple HTML is good enought for most cases, fix your `.gov` sites.
-[CLI Enjoyer]
+# My profile
+## About me
+I'm trying to make a living in computers, I much prefer being around servers and network gear, but I try to do a bit of everything. Cool ASCCI tags:
+[CLI] [GNU/Linux]
 
 
 ## I know this:
