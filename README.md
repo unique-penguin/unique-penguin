@@ -1,7 +1,9 @@
 # Welcome to my profile
 Simple HTML is good enought for most cases, fix your `.gov` sites.
+[CLI Enjoyer]
 
-## I know this
+
+## I know this:
 ### Programming Languages
 - JavaScript (Mastered)
 - Python
@@ -14,11 +16,9 @@ Simple HTML is good enought for most cases, fix your `.gov` sites.
 - MariaDB
 
 ### Frameworks 
+- Frame... work?
 
 ### Others
 - Docker
-- 
-- Frame... work?
-
-
+- git (not the Hub one)
 
