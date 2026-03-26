@@ -1,7 +1,8 @@
 # My profile
 ## About me
-I'm trying to make a living in computers, I much prefer being around servers and network gear, but I try to do a bit of everything. Cool ASCCI tags:
-[CLI] [GNU/Linux]
+I'm trying to make a living in computers, I much prefer being around servers and network gear, but I try to do a bit of everything.
+
+[CLI] [GNU/Linux] [hackmud] [HTML]
 
 
 ## I know this:
@@ -22,4 +23,3 @@ I'm trying to make a living in computers, I much prefer being around servers and
 ### Others
 - Docker
 - git (not the Hub one)
-
