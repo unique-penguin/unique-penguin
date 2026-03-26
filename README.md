@@ -1,9 +1,11 @@
 # My profile
 ## About me
-I'm trying to make a living in computers, I much prefer being around servers and network gear, but I try to do a bit of everything.
+Studying Computer Science. 
+I'm trying to make a living coding. 
+I much prefer being around servers and network gear, but I try to do a bit of everything. 
+HTML is good enought for most stuff, fix your `.gov` websites before adding CSS.
 
-[CLI] [GNU/Linux] [hackmud] [HTML]
-
+[CLI] [GNU/Linux] [hackmud] [HTML] [HTTP1.1]
 
 ## I know this:
 ### Programming Languages
