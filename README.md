@@ -5,8 +5,6 @@ I'm trying to make a living coding.
 I much prefer being around servers and network gear, but I try to do a bit of everything. 
 HTML is good enought for most stuff, fix your `.gov` websites before adding CSS.
 
-[CLI] [GNU/Linux] [hackmud] [HTML] [HTTP1.1]
-
 ## I know this:
 ### Programming Languages
 - JavaScript (Mastered)
@@ -25,3 +23,6 @@ HTML is good enought for most stuff, fix your `.gov` websites before adding CSS.
 ### Others
 - Docker
 - git (not the Hub one)
+
+## Resume
+I need to start and finish more projects. If you are reading this send me a message about something that I should make.
