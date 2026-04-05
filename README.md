@@ -26,3 +26,9 @@ HTML is good enought for most stuff, fix your `.gov` websites before adding CSS.
 
 ## Finished projects: 0
 I need to start and finish more projects. If you are reading this send me a message about something that I should make.
+
+# Planed projects
+- [ ] Scheduler
+  - Small android app to schedule my classes
+- [ ] Finance
+  - Android app to track my expenses and income
