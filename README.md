@@ -1,34 +1,16 @@
-# My profile
-## About me
-Studying Computer Science. 
-I'm trying to make a living coding. 
-I much prefer being around servers and network gear, but I try to do a bit of everything. 
-HTML is good enought for most stuff, fix your `.gov` websites before adding CSS.
+# Unique Penguin
+This is an alias. ;)
 
-## I know this:
-### Programming Languages
-- JavaScript (Mastered)
-- Python
-- C (My favourite)
-- C++
-- Java (I don't like this one as much, but still fun)
+### Main
+## What am I doing?
+What the hell am I even doing? I don't have the slightest of idea.
 
-### Databases
-- MongoDB (My favourite & Mastered)
-- MariaDB
+## Future plans
+I can't see the future, I'm no Bobby Fisher.
 
-### Frameworks 
-- Frame... work?
+## Should you hire me?
+You tell me, I don't know, but would like to be hired.
 
-### Others
-- Docker
-- git (not the Hub one)
-
-## Finished projects: 0
-I need to start and finish more projects. If you are reading this send me a message about something that I should make.
-
-# Planed projects
-- [ ] Scheduler
-  - Small android app to schedule my classes
-- [ ] Finance
-  - Android app to track my expenses and income
+## Footer
+I should probably make stuff, but I'm still missing U (to hire me)
+[ST_FF]×-( - _-)
