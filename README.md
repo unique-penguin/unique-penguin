@@ -10,7 +10,7 @@ I can't see the future, I'm no Bobby Fisher, but most of my projects are in stan
 
 Here are some of them:
 - Team Weaving **[PAUSED]**
-  - Used to manage my projects with the people I will be working with. Simple stuff just to vote, comment and see what other projects the people in the group is working on.
+  - Used to manage my projects with the people I will be working with. Simple stuff just to vote, comment and see what other projects the people in the group are working on.
   - Tools
     - MongoDB (w/Docker)
     - Node.js (express, mongodb driver, cors)
