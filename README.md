@@ -3,7 +3,7 @@ This is an alias. ;)
 ___
 ## Main
 ### What am I doing?
-I don't have the slightest of idea.
+I don't have the slightest idea.
 
 ### Future plans
 I can't see the future, I'm no Bobby Fisher, but most of my projects are in standby until I have more *free time™*, maybe in the summer.
