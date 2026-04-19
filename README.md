@@ -1,4 +1,4 @@
-# Unique Penguin
+# Penguin
 This is an alias. ;)
 ___
 ## Main
