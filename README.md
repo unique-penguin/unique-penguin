@@ -10,3 +10,15 @@ Let's see if *Intelcia* wants to hire me.
 ## Companies
 - [x] [ACIN Group](https://acin.pt/) (Web Developer)
 - [ ] [Intelcia](https://www.intelcia.com/) (IT Management)
+
+## What do I know
+### Tools
+- [x] GNU/Linux
+- [x] MongoDB
+- [ ] MariaDB
+
+### Languages
+- [x] Python
+- [x] C
+- [x] JavaScript
+- [x] HTML + CSS
